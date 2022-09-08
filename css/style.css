@@ -1,10 +1,7 @@
-.container{
-    width: 1200px;
-    margin: 0 auto;
-}
 
 .wrapper {
     margin: 0 auto;
+    width: 90%;
 }
 
 .image {
@@ -13,7 +10,6 @@
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
-    width: auto;
     height: 500px;
 }
 
