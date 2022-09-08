@@ -4,7 +4,6 @@
 }
 
 .wrapper {
-    width: 80%;
     margin: 0 auto;
 }
 
@@ -15,19 +14,17 @@
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     width: auto;
-    height: 400px;
+    height: 500px;
 }
 
 .button {
     font-family: 'Open Sans';
-    font-size: 15px;
+    font-size: 20x;
     color: #ffffff !important;
-    padding: 15px 25px;
+    padding: 14px;
     box-shadow: 2px 2px 2px #4f4f4f;
     border-radius: 15px;
-    border: 0px ridge #f3c846;
     background: #007eff;
-    margin: 0 auto;
     margin-top: 5px;
     display: block;
     text-decoration: none;
